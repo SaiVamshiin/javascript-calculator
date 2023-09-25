@@ -59,9 +59,9 @@
 }
 
 .dis input {
-    width: 90%;
+    width: 91%;
     color: white;
-    padding: 5px 20px;
+    padding: 7px 22px;
     text-align: right;
     background-color: black;
 }
@@ -69,7 +69,7 @@ input::placeholder{
     color: white;
 }
 .total {
-    padding: 5px 20px;
+    padding: 7px 26px;
     color: yellow;
 }
 .dis{
